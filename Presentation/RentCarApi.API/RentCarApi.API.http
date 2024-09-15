@@ -1,0 +1,6 @@
+@RentCarApi.API_HostAddress = http://localhost:7257/swagger/index.html
+
+GET {{RentCarApi.API_HostAddress}}/VehicleType/GetAll/
+Accept: application/json
+
+###

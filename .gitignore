@@ -1,0 +1,9 @@
+**/.vs/
+**/bin/
+**/obj/
+**/logs/
+/mysql-data
+AdminAPI/Controllers/TestingBasedController.cs
+Presentation/RentCarApi.API/appsettings.Development.json
+Presentation/RentCarApi.API/appsettings.json
+Presentation/RentCarApi.API/AppData/googlecloud.json
